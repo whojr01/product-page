@@ -6,7 +6,7 @@ function setActiveContent(el) {
     var contentBodies = document.getElementsByClassName('content-body');
 
     // remove .show-active from all elements
-    for (var contentBody of contentBodies) {
+    
         contentBody.classList.remove('show-active');
     }
     // add .show-active back to clicked element
