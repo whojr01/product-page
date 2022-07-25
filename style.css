@@ -4,7 +4,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-
+.product-main {
     display: flex;
     justify-content: center;
     gap: 2rem;
